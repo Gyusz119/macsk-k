@@ -1,0 +1,22 @@
+.szines{
+    color: red;
+    background-color: black;
+}
+
+.sargaszines {
+    color: yellow;
+    background-color: black;
+}
+
+.narancsszines {
+    color: orange;
+    background-color: black;
+}
+
+h1 {
+    font-size: 200%;
+}
+
+h2 {
+    color: gray;
+}
